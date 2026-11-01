@@ -2,7 +2,6 @@
 
 A CLI tool to audit **your own** digital footprint — see where your username has public accounts, whether your email appears in known data breaches, and whether a password has been exposed.
 
-Born out of a college lab report on digital footprints and digital wellbeing — this tool automates the manual audit that report described: googling yourself, checking Have I Been Pwned, and reviewing your account sprawl.
 
 ## Features
 
